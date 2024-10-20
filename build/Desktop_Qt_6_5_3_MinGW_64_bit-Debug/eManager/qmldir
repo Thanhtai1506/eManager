@@ -1,0 +1,7 @@
+module eManager
+typeinfo appeManager.qmltypes
+prefer :/qt/qml/eManager/
+Main 1.0 Main.qml
+AddPage 1.0 AddPage.qml
+InfoPage 1.0 InfoPage.qml
+

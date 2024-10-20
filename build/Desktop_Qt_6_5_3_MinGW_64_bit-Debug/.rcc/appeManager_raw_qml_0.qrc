@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/eManager/">
+    <file alias="Main.qml">C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/Main.qml</file>
+    <file alias="AddPage.qml">C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/AddPage.qml</file>
+    <file alias="InfoPage.qml">C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/InfoPage.qml</file>
+    <file alias="icon_remove.png">C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/icon_remove.png</file>
+    <file alias="icon_edit.png">C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/icon_edit.png</file>
+    <file alias="qmlFile.qrc">C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/qmlFile.qrc</file>
+  </qresource>
+</RCC>
+

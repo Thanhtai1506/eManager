@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager
+-cmake-output
+-output-file
+C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appeManager.cmake
+-importPath
+C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/eManager
+-importPath
+C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug
+-importPath
+C:/App/Qt/6.5.3/mingw_64/./qml
+-qrcFiles
+C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmake_eManager.qrc
+C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/appeManager_raw_qml_0.qrc

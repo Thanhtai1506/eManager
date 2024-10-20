@@ -1,0 +1,78 @@
+[
+    {
+        "classes": [
+            {
+                "className": "EmployeeManager",
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "bu",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "addEmployee",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "no",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "removeEmployee",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "no",
+                                "type": "int"
+                            },
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "bu",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "editEmployee",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "getEmployees",
+                        "returnType": "QList<Employee>"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "EmployeeManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "employeesUpdated",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "employeemanager.h",
+        "outputRevision": 68
+    }
+]

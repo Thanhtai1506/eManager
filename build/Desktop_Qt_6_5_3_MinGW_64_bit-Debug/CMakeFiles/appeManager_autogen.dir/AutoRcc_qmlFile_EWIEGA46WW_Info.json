@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/appeManager_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager",
+	"CMAKE_SOURCE_DIR" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/appeManager_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/AddPage.qml",
+		"C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/Main.qml",
+		"C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/InfoPage.qml"
+	],
+	"LOCK_FILE" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appeManager_autogen.dir/AutoRcc_qmlFile_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "qmlFile" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qmlFile.cpp",
+	"RCC_EXECUTABLE" : "C:/App/Qt/6.5.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appeManager_autogen.dir/AutoRcc_qmlFile_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/tai15/OneDrive/Desktop/C++/Code/QTcode/Demo/eManager/qmlFile.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
